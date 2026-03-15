@@ -1,0 +1,5 @@
+{
+  "name": "Shiksha Setu Frontend",
+  "description": "",
+  "requestFramePermissions": ["camera"]
+}
